@@ -2,8 +2,8 @@
 
 ## TRABAJO PRACTICO 1
 
-###**RETO I**
-####¿Podrías buscar un ejemplo de macromoléculas que almacenen información sobre la ‘identidad’ de un organismo dado?
+### **RETO I**
+#### ¿Podrías buscar un ejemplo de macromoléculas que almacenen información sobre la ‘identidad’ de un organismo dado?
 
 Un ejemplo de macromoléculas es el ácido núcleico (ADN)
 
@@ -15,7 +15,7 @@ Una forma de expresar la información contenida  de la estructura primaria de la
 ####¿ En qué tipo de datos podrías expresar la información de la estructura terciaria proteica?
 Para poder contener los datos que expresa la informacion de la estructura terciaria proteica (coordenadas y elemento) creo que una lista de objetos seria la mejor opción.
 
-###**RETO IV** 
+### **RETO IV** 
 ####Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido. ¿Cuáles fueron sus contribuciones en este campo? ¿Qué nos cuenta su historia acerca del mundo de la ciencia?
 
 - Rosalind Franklin logro obtener imagenes con ADN lo suficientemente nitidas que permitian ver y explicar la estructura de un ADN. Sus resultados sugerían una estructura helicoidal con 2,3 o 4 cadenas y con los grupos fosfatos hacia el exterior.
