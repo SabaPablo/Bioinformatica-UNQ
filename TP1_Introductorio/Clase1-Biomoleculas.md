@@ -1,4 +1,4 @@
-#Biomoleculas
+# Biomoleculas
 ------------
 
 Son moleculas que se encuentran en los sistemas biologicos( en los seres vivos ). 
@@ -13,28 +13,28 @@ Los monomeros no son solubles en agua.
 Moleculas polares = nucleos comparten de forma desigual los e- -> soluble en agua
 moleculas No polares = lipidos == todos los nucleos comparten de igual modo los e- -> no es soluble en agua
 
-##LIPIDOS
+## LIPIDOS
 Todos los nucleos comparten de igual modo los electrones.
 - grupo muy heterogéneo
 - insolubles en soluciones acuosas
 - Solubles en solventes no-polares
 - En genreal se forman por condensacion de moleculas acetato.
 
-##AMINOÁCIDOS
+## AMINOÁCIDOS
 - Los aminoácidos conocidos hasta ahora son 20
 - Son enlaces de carbono
 
-![Tabla Periódica de Aminoácidos](https://lh3.googleusercontent.com/proxy/5X3HqkHkpuMgRqGvEWIxCmFyY4u0SGJTLQpOBZGCbzb6gKNJ9-NTVoFE2e2vdytedhtPUVMl4auxliDG7TRjm-cN4F31x_2JlhASKzQoYAZLOpgA2zMe "Tabla Periódica de Aminoácidos")
+![Tabla Periódica de Aminoácidos](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP1_Introductorio/extra/tabla_aminoacidos.jpg)
 
-##PROTEÍNAS 
+## PROTEÍNAS 
 - Son un tipo de biomoleculas. 
 - Una proteina esta compuesta por aminoacidos.
 
 La variacion de la coneccion entre aminoacidos modifica por completo las funciones de una proteina.
 
-![Estructura terciaria proteina](https://upload.wikimedia.org/wikipedia/commons/6/60/Myoglobin.png "Estructura terciaria proteina")
 
-##ESTRUCTURAS DE LAS PROTEINAS 
+
+## ESTRUCTURAS DE LAS PROTEINAS 
 
 - Estructura primaria: secuencia de resuduos/aminoácidos
 
@@ -46,6 +46,7 @@ La variacion de la coneccion entre aminoacidos modifica por completo las funcion
 
 Gracias a los rayos x podemos tener imagenes de como puede ser una proteina. Las proteinas se encuentran en continuo movimiento, para poder tomar imagenes se cristalizan las proteinas, esa tecnica consiste a extraer las moleculas de agua que tiene esa proteina.
 
+![Estructuras proteina](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP1_Introductorio/extra/proteinas_orig.jpg)
 
 ## ACIDOS NUCLEICOS (ADN)
 

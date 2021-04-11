@@ -2,28 +2,28 @@
 
 ## TRABAJO PRACTICO 1
 
-###**RETO I**
-####¿Podrías buscar un ejemplo de macromoléculas que almacenen información sobre la ‘identidad’ de un organismo dado?
+### **RETO I**
+#### ¿Podrías buscar un ejemplo de macromoléculas que almacenen información sobre la ‘identidad’ de un organismo dado?
 
 Un ejemplo de macromoléculas es el ácido núcleico (ADN)
 
 ### **RETO II**
-####Proponé una forma de expresar la información contenida de la estructura primaria de las proteínas usando tipo de datos de los lenguajes de programación que conocés.
+#### Proponé una forma de expresar la información contenida de la estructura primaria de las proteínas usando tipo de datos de los lenguajes de programación que conocés.
 Una forma de expresar la información contenida  de la estructura primaria de las proteinas puede ser un "String".
 
 ### ***RETO III***
-####¿ En qué tipo de datos podrías expresar la información de la estructura terciaria proteica?
+#### ¿ En qué tipo de datos podrías expresar la información de la estructura terciaria proteica?
 Para poder contener los datos que expresa la informacion de la estructura terciaria proteica (coordenadas y elemento) creo que una lista de objetos seria la mejor opción.
 
-###**RETO IV** 
-####Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido. ¿Cuáles fueron sus contribuciones en este campo? ¿Qué nos cuenta su historia acerca del mundo de la ciencia?
+### **RETO IV** 
+#### Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido. ¿Cuáles fueron sus contribuciones en este campo? ¿Qué nos cuenta su historia acerca del mundo de la ciencia?
 
 - Rosalind Franklin logro obtener imagenes con ADN lo suficientemente nitidas que permitian ver y explicar la estructura de un ADN. Sus resultados sugerían una estructura helicoidal con 2,3 o 4 cadenas y con los grupos fosfatos hacia el exterior.
 - Esta historia aparte de marcar un quiebre en la forma de entender y interpretar la estructura de un ADN, pone de manifiesto el maltrato y el intento de desprestigio que existia y que existe sobre las mujeres en ciencia. 
 
 
 ### **RETO V**
-####Proponé en pseudocódigo un programa que prediga la estructura secundaria que adpotará cada residuo (aminoácido) de la secuencia proteica dada, especificandola con H (si es una hélice), B (si es una hoja beta plegada) y L (si es un bucle o loop).
+#### Proponé en pseudocódigo un programa que prediga la estructura secundaria que adpotará cada residuo (aminoácido) de la secuencia proteica dada, especificandola con H (si es una hélice), B (si es una hoja beta plegada) y L (si es un bucle o loop).
 
 ##### &diams; PREGUNTA DISPARADORA: ¿Qué inputs tendra tu programa? ¿De qué modo se te ocurre configurar el output?
 
