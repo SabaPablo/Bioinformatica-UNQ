@@ -32,7 +32,7 @@ Todos los nucleos comparten de igual modo los electrones.
 
 La variacion de la coneccion entre aminoacidos modifica por completo las funciones de una proteina.
 
-![Estructuras proteina](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP1_Introductorio/extra/proteinas_orig.jpg)
+
 
 ## ESTRUCTURAS DE LAS PROTEINAS 
 
@@ -46,6 +46,7 @@ La variacion de la coneccion entre aminoacidos modifica por completo las funcion
 
 Gracias a los rayos x podemos tener imagenes de como puede ser una proteina. Las proteinas se encuentran en continuo movimiento, para poder tomar imagenes se cristalizan las proteinas, esa tecnica consiste a extraer las moleculas de agua que tiene esa proteina.
 
+![Estructuras proteina](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP1_Introductorio/extra/proteinas_orig.jpg)
 
 ## ACIDOS NUCLEICOS (ADN)
 
