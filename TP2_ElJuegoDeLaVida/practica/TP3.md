@@ -14,7 +14,7 @@
 
 ### **RETO II**
 #### Dado el código genético como se muestra en la tabla:
-(tabla)
+![codigo genetico](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP2_ElJuegoDeLaVida/extra/codigo_genetico.jpg)
 #### 👉 Crea un programa sencillo en algún lenguaje de programación que conozcas que imprima una cadena de ARN codificante para el siguiente péptido (cadena corta de aminoácidos). 
 
 ### **RETO III**
