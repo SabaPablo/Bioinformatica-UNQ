@@ -6,8 +6,23 @@
 ### PARA PENSAR: 
 #### ¿A qué se refiere el texto con la frase “los genes “informacionales” tienen su origen en el reino archaea, mientras que los genes “operacionales” tienen su origen en el reino bacteria”?
 
+En una celula eucariota hay dos grande grupos de genes, los genes operacionales y los genes informacionales, Los genes operacionales hacen referencia en los genes que se representan en las mitocondrias y que segun una teoria tienen su origen en el reino bacteria, mientras que los genes informacionales hacen referencia al genoma que esta en el núcleo de la celula eucariota y tiene su origen en el reino archaea.
+
 ### **RETO I**
 #### Enumerá las diferencias que existen entre una célula procariota y eucariota.
+
+| Eucariota  | Procariota  |
+| :------------ |:---------------:|
+| Gran tamaño                                           |       Pequeña         |
+| posee Núcleo                                          |       No posee Núcleo |
+| Comosomas lineales                                    | Cromosomas circulares  |
+| Membrana nuclear con el complejo del poro nuclear     | Ausencia de una membrana que defina el espacio  |
+|Transcripción y traducción ocurren de manera separada  |Transcripción y traducción ocurren de manera simultánea|
+|Sistema de endomembrana y otras organelas (lisosomas, peroxisomas, mitocondrias, cloroplastos, vacuolas)||
+|Reproducción sexual y asexual.                         |Reproducción asexual.      |
+|DivisIón por mitosis|División por fisión binaria|
+|Complejos proteicos (tubulina, actina)||
+|Citoesqueleto|                     |
 
 ### PARA PENSAR: 
 #### ¿Cuáles de los pasos descritos anteriormente deberías cambiar si habláramos de células procariotas?
