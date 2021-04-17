@@ -20,6 +20,8 @@ Los seres vivos evolucionan por **causas principales** y **causa proximales**
 
 Excisten dos tipos de células: procariotas y eucaritas.
 
+![Tipo de celulas](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP2_ElJuegoDeLaVida/extra/tipo_de_celulas.jpg)
+
 | Eucariota  | Procariota  |
 | :------------ |:---------------:|
 | Gran tamaño                                           |       Pequeña         |
@@ -41,7 +43,7 @@ El **ADN** es el material hereditario → se transmite de generación en generac
 
 EL **código genetico** esta compuesto por combinaciones entre codones y sus aminoacidos correspondientes.
 
-(imagen )
+![Codigo genetico](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP2_ElJuegoDeLaVida/extra/codigo_genetico.jpg)
 
 ##### ¿Cómo está estructurada la info genetica en las eucariotas?
 23 pares de cromosomas dentro del nucleo
