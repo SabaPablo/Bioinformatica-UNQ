@@ -29,8 +29,9 @@ En una celula eucariota hay dos grande grupos de genes, los genes operacionales 
 
 ### **RETO II**
 #### Dado el código genético como se muestra en la tabla:
-![codigo genetico](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP2_ElJuegoDeLaVida/extra/codigo_genetico.jpg)
+![codigo genetico](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP3_ElJuegoDeLaVida/extra/codigo_genetico.jpg)
 #### 👉 Crea un programa sencillo en algún lenguaje de programación que conozcas que imprima una cadena de ARN codificante para el siguiente péptido (cadena corta de aminoácidos). 
+**Sec1: ‘ATVEKGGKHKTGPNEKGKKIFVQKCSQCHTVLHGLFGRKTGQA'**
 
 ### **RETO III**
 #### En muchos de los genes codificados en el ADN existe un motivo recurrente ubicado antes de la secuencia codificante del gen que direcciona la unión de la ARN Polimerasa II, la proteína encargada de copiar el ADN a un ARN mensajero. Ésta secuencia denominada caja TATA (consistente en una secuencia de nucleótidos 'TATAAA') se encuentra presente en lo que se denomina región promotora de diversos genes, en organismos de todos los reinos (Smale and Kadonaga 2003; Lifton et al. 1978).  
