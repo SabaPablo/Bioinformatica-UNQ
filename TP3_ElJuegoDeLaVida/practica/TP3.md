@@ -26,6 +26,7 @@ En una celula eucariota hay dos grande grupos de genes, los genes operacionales 
 
 ### PARA PENSAR: 
 #### ¿Cuáles de los pasos descritos anteriormente deberías cambiar si habláramos de células procariotas?
+Al no existir nucleo en las células procariotas, todo el proceso de sintesis ocurre en el citoplasma.
 
 ### **RETO II**
 #### Dado el código genético como se muestra en la tabla:
