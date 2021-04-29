@@ -61,6 +61,8 @@ LKDPKKYIPGTKMVFAGLKKAEERADLIAFLKSNK
 
   Con estos analisis podriamos entender mejor un poco la historia de la vida. Podemos ver que a nivel molecular tenemos mas parentescos con una especie que con otra.
 
+![cotocromoC Homo - galius](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP4_EnQueSePareceUnaVacaYUnaGallina/practica/extra/homo_gallo_secuence_alignment.png)
+
 ##### 4. Podemos elegir verlo en colores (Show Color). ¿Qué indican los colores? ¿Qué indican el guión (-), los dos puntos (:) y el asterisco (*)?
 
   Segun la documentación podemos encontrar: 
@@ -85,6 +87,9 @@ LKDPKKYIPGTKMVFAGLKKAEERADLIAFLKSNK
 
 ##### 5. A simple vista, ¿se conserva la secuencia del citocromo c en los organismos?
 
+![multiple secuence alignment](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP4_EnQueSePareceUnaVacaYUnaGallina/practica/extra/multple_secuence_alignment_color.png)
+
+
   A simple vista se puede ver que si. Si bien se ven en algunos casos mas diferencias que en otros, podemos observar que se conserva en gran parte la secuenca del citocormo c.
   
 ##### 6. ¿Creeríamos que todos los organismos se asemejan por igual al resto, o se pueden identificar grupos de mayor similitud? Si es así, ¿tienen sentido?
@@ -101,4 +106,6 @@ LKDPKKYIPGTKMVFAGLKKAEERADLIAFLKSNK
     
 ##### 9. Observemos el árbol filogenético. ¿Concuerda con lo esperado? ¿De qué organismos son los citocromos c más parecidos? ¿Cómo se explica?
 
+![true](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP4_EnQueSePareceUnaVacaYUnaGallina/practica/extra/tree.png)
 
+En lineas generales si. La "Xenopus laevis" me desconcierta un poco. 
