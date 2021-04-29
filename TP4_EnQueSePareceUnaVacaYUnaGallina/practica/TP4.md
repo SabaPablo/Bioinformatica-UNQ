@@ -47,5 +47,17 @@ LKDPKKYIPGTKMVFAGLKKAEERADLIAFLKSNK
 
 ```
 
+##### 1. ¿Cuán sencillo será alinear dos o más secuencias a mano? ¿Cuánto influirán el número de secuencias a alinear, su longitud, y la similitud entre ellas?
+
+En realidad no es tan sensillo de ver el alineamiento, se pueden ver que hay alguna similitud entre ellas. 
+
+##### 2. ¿Son parecidos los citocromos c de humano y gallo? 
+##### 3. ¿Qué teorías subyacen a este análisis? ¿Cómo nos ayuda la evolución a explicar sus similitudes y diferencias?
+##### 4. Podemos elegir verlo en colores (Show Color). ¿Qué indican los colores? ¿Qué indican el guión (-), los dos puntos (:) y el asterisco (*)?
+##### 5. A simple vista, ¿se conserva la secuencia del citocromo c en los organismos?
+##### 6. ¿Creeríamos que todos los organismos se asemejan por igual al resto, o se pueden identificar grupos de mayor similitud? Si es así, ¿tienen sentido?
+##### 7. ¿Qué evidencias nos aportaría este análisis, a la luz de la evolución?
+##### 8. A juzgar por los organismos participantes, ¿cuáles creería que deberían estar más agrupados en el árbol filogenético?
+##### 9. Observemos el árbol filogenético. ¿Concuerda con lo esperado? ¿De qué organismos son los citocromos c más parecidos? ¿Cómo se explica?
 
 
