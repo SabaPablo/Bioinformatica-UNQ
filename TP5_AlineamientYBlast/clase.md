@@ -11,10 +11,14 @@ Las secuencias homólogas pueden ser ortólogas o parálogas:
 - **Ortólogos**: Genes que comparten el último ancestro común y cuya divergencia se debe a la especiación.
 - **Parálogos**: Genes que debido a una duplicación, ya no comparten el último ancestro. Frecuentemente tienen funciones distintas. Copias que tiene la posibilidad de evolucionar.
 
+![Genes Orto Para](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP5_AlineamientYBlast/practica/extra/homology_en1.png)
+
 #### Alineamiento de secuencias
 
 El alineamiento secuecial es un procedimiento por el cual podemos comparar 2 
 no siempre es el que me da mejor score sino los que me representan mejor la naturaleza, para ello vamos a penalizar el uso de gaps de diferente forma
 
 existen matrices de sustitución que sirve para simular los cambios en secuencias de proteinas, usa informacion evolutiva para comparar aminoácidos. Con ellos puntua que tan probable o improbable es esa transformación.
-Los datos de las matrices estan hechas con datos experimentales.
+Margaret Dayhoff fue quien desarrolló las matrices PAM para aminoácidos. Los datos de las matrices fueron tomados con datos experimentales.
+
+![Matriz de sustitución](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP5_AlineamientYBlast/practica/extra/pam1.png)
