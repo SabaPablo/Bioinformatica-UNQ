@@ -22,3 +22,22 @@ existen matrices de sustitución que sirve para simular los cambios en secuencia
 Margaret Dayhoff fue quien desarrolló las matrices PAM para aminoácidos. Los datos de las matrices fueron tomados con datos experimentales.
 
 ![Matriz de sustitución](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP5_AlineamientYBlast/practica/extra/pam1.png)
+
+
+Tecnicas y programas de alineamiento
+
+| Local  |  Global   |
+|--------|--------|
+|Mejor alineamiento a lo largo de 2 secuencias | Mejor alineamiento del segmento más largo entre 2 secuencias|
+|Smith Waterman| Needleman Wunsch |
+| Búsquedas de sub-secuencias o regiones | Tienen la misma organización secuencial?|
+| Permite localizar segmentos o dominios comunes| sirve para proteinas|
+
+
+Clustal usa NW
+
+BLAST es un algoritmo de busqueda de similitud secuencial.
+
+AHCNIRVS
+AICINRCK
+

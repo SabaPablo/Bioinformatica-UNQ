@@ -4,11 +4,17 @@
 
 👉 PARA PENSAR: ¿Qué tipo de información se puede extraer de la comparación de secuencias? ¿Cómo esperás que se vea en una comparación? 
 
+Al comparar secuencias podemos identificar a quien corresponde o que tan similar es con otras. 
+
+
 👉 PARA PENSAR: ¿Por qué crees que es mejor evaluar las relaciones evolutivas lejanas comparando proteínas?
+
+
 
 👇 RETO I: Intentemos, entonces alinear estas dos palabras, para comprender mejor el problema. Alineá en la tabla interactiva las palabras "BANANA" y "MANZANA".  
 ¡Tomá nota de tus observaciones y de las conclusiones que se desprendan de estas observaciones!
 ☑ ️ PREGUNTAS DISPARADORAS: ¿Existe una única forma de alinearlas? ¿Es alguno de los posibles alineamientos mejor que otro? Si así fuera ¿Por qué?
+
 
 
 👇 RETO II: En la siguiente tabla interactiva  distintos alineamientos para las palabras "ANA" y "ANANA". Verás que en el margen superior derecho aparece un valor de identidad calculado para cada alineamiento que intentes.
