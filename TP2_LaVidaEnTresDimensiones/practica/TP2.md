@@ -16,29 +16,36 @@ La molecula de O<sub>2</sub> es transportada por la hemoglobina en una pequeña 
 #### - ¿Qué información nos provee esta página?
 En esta pagina provee el acceso a las bases de datos donde se encuentran todas las estructuras de macromoléculas biológicas obtenidas hasta el momento.
 #### - ¿Cómo se determinó la estructura de esta proteína?
-#### - A la izquierda vemos una representación de la estructura de ubiquitina. ¿Qué
-significan las cintas, las flechas y las regiones angostas?
+La estructura de la proteina se determina a travez de un metodo llamado cristalizacion a la que se somete dicha proteina, donde luego se la bombardea con rayos la cual algunas rebotan para darnos la forma tridimensional de la misma
+#### - A la izquierda vemos una representación de la estructura de ubiquitina. ¿Qué significan las cintas, las flechas y las regiones angostas?
+
+las estructuras hélice α se representan con cintas, las hebras β se representan con flechas amplias y los loops son representados con regiones angostas.
+
 #### - ¿Representa esa imagen a la realidad del sistema biológico?
+
+Representan la forma en un momento preciso de una proteina
+
 #### - La estructura 2W6V fue “refinada a una resolución de 1.8 Angstroms”.
-- Éste es el error asociado al experimento: mientras mayor es la
-resolución, menor es la certeza al determinar la posición de cada átomo.
-¿Cuál es la utilidad y los condicionamientos de usar un modelo
-científico que sabemos inexacto?
+####Éste es el error asociado al experimento: mientras mayor es la resolución, menor es la certeza al determinar la posición de cada átomo.
 
+Para lograr su imagen y posición se la somete a lo que se denomina cristalización lo que hace reducir su movimiento para luego bombardearla con rayos. Lo que nos da a entender que solo modela un momento exacto de la proteína y no en su condición real.
 
+#### ¿Cuál es la utilidad y los condicionamientos de usar un modelo científico que sabemos inexacto?
 
-- En la pantalla principal vemos una representación de la estructura de
-ubiquitina. ¿Qué significan las cintas, las flechas y las regiones angostas?
-¿Qué diferencias y similitudes notamos respecto de la representación
-inicial?
+Si bien sabemos es inexacto, podemos determinar algunas de las formas que adquiere y toma esa proteina, la cual nos permite en forma computacional saber que tan probable es que una droga haga efecto sobre ella o pueda ser quien la transporta.
+
+###¿Qué diferencias y similitudes notamos respecto de la representación inicial?
 - En el menú de la derecha hay opciones de distintos tipos de representación y
 formas de colorear la estructura tridimensional. ¿Para qué podría ser útil
 visualizar lo mismo de distintas maneras?
 
+Una nos da un aspecto fisico que toma la proteina y el otro muestra mas en detalle porque va tomando una forma o otra.
 
-¿Qué información esperaría encontrar como resultado un experimento
+#### ¿Qué información esperaría encontrar como resultado un experimento
 destinado a determinar la estructura terciaria de una molécula
 biológica?
+
+
 Podemos explorar el contenido del archivo que acabamos de descargar si lo
 observamos con un editor de texto. Haciendo clic con el botón derecho del
 mouse sobre el archivo descargado, usemos la opción Abrir con y
