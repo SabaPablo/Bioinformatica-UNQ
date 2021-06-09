@@ -30,11 +30,14 @@ Representan la forma en un momento preciso de una proteina
 
 Para lograr su imagen y posición se la somete a lo que se denomina cristalización lo que hace reducir su movimiento para luego bombardearla con rayos. Lo que nos da a entender que solo modela un momento exacto de la proteína y no en su condición real.
 
+![2w6v](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP2_LaVidaEnTresDimensiones/practica/extra/pdb_2w6v.png)
+
 #### ¿Cuál es la utilidad y los condicionamientos de usar un modelo científico que sabemos inexacto?
 
 Si bien sabemos es inexacto, podemos determinar algunas de las formas que adquiere y toma esa proteina, la cual nos permite en forma computacional saber que tan probable es que una droga haga efecto sobre ella o pueda ser quien la transporta.
 
 #### Exploremos la pestaña de visualización tridimensional (3D View). Con el mouse podemos rotar, acercar y desplazar a la molécula. El menú de la derecha nos permite cambiar el modo de representación.
+
 #### ¿Qué diferencias y similitudes notamos respecto de la representación inicial?
 ####En el menú de la derecha hay opciones de distintos tipos de representación y
 formas de colorear la estructura tridimensional. ¿Para qué podría ser útil
@@ -48,16 +51,20 @@ Esperaria encontrar la posicion en el espacion de los componentes de dicha molec
 
 #### Podemos explorar el contenido del archivo que acabamos de descargar si lo observamos con un editor de texto. Haciendo clic con el botón derecho del mouse sobre el archivo descargado, usemos la opción Abrir con y seleccionemos el Bloc de Notas u otro editor de texto. ¿En qué consiste un archivo PDB?
 
+[2W6V.pdb](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP2_LaVidaEnTresDimensiones/practica/extra/2W6V.pdb)
+
+[1UBQ.pdb](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP2_LaVidaEnTresDimensiones/practica/extra/1ubq.pdb)
+
 Un archivo pdb revela informacion relacionada a la proteina a estudiar. Tiene, nombre de proteina, de que organismo se tomo la muestra, informacion del paper por el cual se hizo el estudio, datos del o les autores. Como esta conformada la estructura primaria. Y datos de la posicion de cada uno de los atomos que conforman a la proteina.
 
 #### Desplacémonos por el archivo hasta encontrar las líneas que comienzan con la palabra ATOM. ¿Qué tipo de información brinda esta sección?
 
 ```
-ATOM      1  N    VAL	 A    1      18.512  29.178  42.972  1.00 33.06           N  
+ATOM      1  N    VAL	 A     1      18.512  29.178  42.972  1.00 33.06           N  
 ATOM      2  CA  AVAL  A     1      19.432  30.114  42.266  0.50 32.94           C  
-ATOM      3  CA  BVAL  A    1      19.422  30.061  42.195  0.50 32.89           C  
-ATOM      4  C    VAL    A     1      20.844  29.541  42.277  1.00 32.59           C  
-ATOM      5  O    VAL    A     1      21.187  28.799  43.185  1.00 33.23           O  
+ATOM      3  CA  BVAL  A     1      19.422  30.061  42.195  0.50 32.89           C  
+ATOM      4  C    VAL  A     1      20.844  29.541  42.277  1.00 32.59           C  
+ATOM      5  O    VAL  A     1      21.187  28.799  43.185  1.00 33.23           O  
 ATOM      6  CB  AVAL  A     1      19.446  31.510  42.960  0.50 33.24           C  
 ATOM      7  CB  BVAL  A     1      19.374  31.551  42.672  0.50 33.23           C 
 ```
@@ -90,6 +97,6 @@ La proteina pertenece a una bacteria llamada ***Escherichia coli***
 Esta localizada en el citoplasma. Esta proteina esta involucrada en paso 1 de la sub-ruta de sintesis del lipido A.
 ### Usando la sección de “Cross References”:
 #### 5. Obtené la región codificante
-[Codigo FASTA región codificante](www.gasdf)
+[Codigo FASTA región codificante](https://github.com/wisaku/Bioinformatica-UNQ/blob/master/TP2_LaVidaEnTresDimensiones/practica/extra/M19334.1.fasta)
 #### 6. ¿Está cristalizada la proteína? ¿Qué código PDB tiene?
 Si, esta cristalizada y el codigo PD es [1LXA](https://www.rcsb.org/structure/1LXA)
