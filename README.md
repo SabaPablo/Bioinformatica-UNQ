@@ -18,9 +18,9 @@ Dentro de este repositorio se encuentran separado por unidad (os apuntes tomados
 - [Unidad 1 - Biomoleculas](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP1_Introductorio)
 - [Unidad 2 - La vida en 3 dimensiones](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP2_LaVidaEnTresDimensiones)
 - [Unidad 3 - El juego de la vida](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP3_ElJuegoDeLaVida)
-- [Unidad 4 - En Que Se Parece Una Vaca Y Una Gallina](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP4_EnQueSePareceUnaVacaYUnaGallina)
+- [Unidad 4 - En que se parece una vaca y una gallina](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP4_EnQueSePareceUnaVacaYUnaGallina)
 - [Unidad 5 - Alineamiento y BLAST](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP5_AlineamientYBlast/)
-- [Unidad 6 - ?]()
+- [Unidad 6 - Inferencia evolutiva](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP6_InferenciasEvolutivas)
 - [Unidad 7 - ?]()
 - [Proyecto final]()
 
