@@ -21,8 +21,8 @@ Dentro de este repositorio se encuentran separado por unidad (os apuntes tomados
 - [Unidad 4 - En que se parece una vaca y una gallina](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP4_EnQueSePareceUnaVacaYUnaGallina)
 - [Unidad 5 - Alineamiento y BLAST](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP5_AlineamientYBlast/)
 - [Unidad 6 - Inferencia evolutiva](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP6_InferenciasEvolutivas)
-- [Unidad 7 - ?]()
-- [Proyecto final]()
+- [Unidad 7 - Estructuras de proteinas](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP7_EstructuraDeProteinas)
+- [Proyecto final](https://github.com/wisaku/Bioinformatica-UNQ/tree/master/TP_Final)
 
 ### Contenido de la materia:
 - [git](https://github.com/AJVelezRueda/Bioinfo_UNQ)
